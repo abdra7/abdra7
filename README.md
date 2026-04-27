@@ -2,13 +2,23 @@
 
 <h2 align="center">“First, solve the problem. Then, write the code.”<br>— John Johnson</h2>
 
-###
+
 
 <div align="center">
-  <img height="520" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"  />
+
+  <img 
+    src="https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif" 
+    alt="Animation"
+    width="80%" 
+    style="border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.4);" 
+  />
+
+  <br><br>
+
+
+
 </div>
 
-###
 
 <div align="center">
   <a href="https://github.com/abdra7" target="_blank">
