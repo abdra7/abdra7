@@ -12,11 +12,6 @@
     width="80%" 
     style="border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.4);" 
   />
-
-  <br><br>
-
-
-
 </div>
 
 
