@@ -1,91 +1,11 @@
-<br clear="both">
-
-<h2 align="center">“First, solve the problem. Then, write the code.”<br>— John Johnson</h2>
-
-
-
-<div align="center">
-
-  <img 
-    src="[https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif](https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gifv)" 
-    alt="Animation"
-    width="80%" 
-    style="border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.4);" 
-  />
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/abdra7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
-  <a href="mailto:ABDULRAHI.11r@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
+<br clear="both"> <h2 align="center">"First, solve the problem. Then, write the code."<br>— John Johnson</h2> <div align="center"> <img src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gifv" alt="Animation" width="80%" style="border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.4);" /> </div> <div align="center"> <a href="https://github.com/abdra7" target="_blank"> <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /> </a> <a href="mailto:ABDULRAHIM.11r@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a> <a href="https://www.linkedin.com/in/abdulrahim-rashid" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a> <a href="https://abdulrahim.page" target="_blank"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" /> </a> </div>
 <h1 align="center">Hi 👋, I'm Abdulrahim Rashid Alharbi</h1>
+<h2 align="center">Software Engineer | AI · UI/UX Designer & Full-stack Developer</h2> <h3 align="center">🤖 Building distributed AI systems, agents, and real-world automated workflows</h3>
+<img align="right" height="200" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" />
+<h4 align="left"> 🎓 Computer Science graduate — Umm Al-Qura University, Makkah, Saudi Arabia (2026)<br><br> 💻 Software Engineer experienced in backend development, APIs, databases, testing, and AI-enabled systems<br><br> 🤖 Practical work across distributed AI orchestration, RAG, AI agents, and machine learning projects<br><br> 🎨 Creative and detail-oriented UI/UX designer focused on intuitive, user-centered digital experiences<br><br> ⚙️ Experienced in integrating APIs and building automated workflows to streamline processes<br><br> 🚀 Comfortable leading teams and collaborating across cross-functional environments<br><br> 📍 Based in Jeddah, Saudi Arabia </h4>
+<h2 align="left">🛠 Tech Stack</h2> <h4 align="left">Languages</h4> <div align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </div> <h4 align="left">Frameworks & Backend</h4> <div align="left"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> </div> <h4 align="left">AI & Machine Learning</h4> <div align="left"> <img src="https://img.shields.io/badge/AI%20Agents-4B8BBE?style=for-the-badge&logo=robotframework&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-6E4AFF?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> </div> <h4 align="left">Data & Platforms</h4> <div align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> </div> <h4 align="left">Design & Tools</h4> <div align="left"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Flowise-1C3C3C?style=for-the-badge&logo=flowise&logoColor=white" /> </div>
 
-###
-
-<h2 align="center">UI/UX Designer & Full-stack Developer</h2>
-<h3 align="center">🤖 Interested in AI & building real-world systems  
-</h3>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif"  />
-
-###
-
-<h4 align="left">
-🌱 Currently a Computer Science student at Umm Al-Qura University (Expected 2026)<br><br>
-🎨 Creative and detail-oriented UI/UX designer focused on visual design <br><br>
-💻 Passionate about crafting intuitive digital experiences and user-centered thinking<br><br>
-🚀 Experienced in team leadership and collaborative environments <br><br>
-🤖 Interested in applying AI agents in real-world systems and building automated workflows<br><br>
-⚙️ Experienced in developing automated systems and integrating APIs to streamline processes 
-</h4>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
-  
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/FlowiseAI/Flowise/main/images/flowise.png" height="40" alt="flowise logo" />
-</div>
-
-###
+<h2 align="left">✍️ Leave a Note</h2> <p align="left"> Got a message, feedback, or just want to say hi? Drop a note below 👇 </p> <div align="left"> <a href="https://github.com/abdra7/abdra7/issues/1" target="_blank"> <img src="https://img.shields.io/badge/Add%20a%20Note-Click%20Here-brightgreen?style=for-the-badge&logo=github" alt="Add a Note" /> </a> </div> <br> <!-- Guestbook -->
+Name	Date	Message
+<i>Be the first to sign the guestbook!</i>		
+<!-- /Guestbook -->
