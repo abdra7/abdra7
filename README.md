@@ -8,6 +8,4 @@
 <h2 align="left">✍️ Leave a Note</h2> <p align="left"> Got a message, feedback, or just want to say hi? Drop a note below 👇 </p> <div align="left"> <a href="https://github.com/abdra7/abdra7/issues/1" target="_blank"> <img src="https://img.shields.io/badge/Add%20a%20Note-Click%20Here-brightgreen?style=for-the-badge&logo=github" alt="Add a Note" /> </a> </div> <br> <!-- Guestbook -->
  Name | Message |
 ---|---|
-| <a href="https://github.com/abdra7" style="display: flex; align-items: center;"><img width="30" src="https://avatars.githubusercontent.com/u/179046168?s=24&u=8ceb19f0c0883fb503f4c11e0206ee1dbb3a33df&v=4" alt="abdra7" style="border-radius: 50%; margin-right: 5px;"/> abdra7</a> |cscscc|
-| <a href="https://github.com/abdra7" style="display: flex; align-items: center;"><img width="30" src="https://avatars.githubusercontent.com/u/179046168?s=24&u=8ceb19f0c0883fb503f4c11e0206ee1dbb3a33df&v=4" alt="abdra7" style="border-radius: 50%; margin-right: 5px;"/> abdra7</a> |heloo|
 <!-- /Guestbook -->
